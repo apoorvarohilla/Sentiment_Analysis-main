@@ -7,5 +7,5 @@ I've deployed this model on the Hugging Face website. You can use it through the
 
 Thank You
 
-Akash Jha
+Apoorva Rohilla
 
