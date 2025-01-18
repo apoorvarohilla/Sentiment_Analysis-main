@@ -1,11 +1,3 @@
-# Movie-Recommender-System
-This is an end-to-end content-based movie recommender system using cosine similarity. This recommender system provides the top 5 most similar movies based on content similarity.
+# Sentiment_Analysis
 
-I've deployed this model on the Hugging Face website. You can use it through the 
-
-**Check it out here:** https://huggingface.co/spaces/iamakashjha/Movie_Recommender_System
-
-Thank You
-
-Apoorva Rohilla
-
+In this project, I've used a pre-trained sentiment analysis model, created an app, and deployed it on the hugging face platform. it can be accessed at link: https://huggingface.co/spaces/iamakashjha/Sentiment_Analysis
